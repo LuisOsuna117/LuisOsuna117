@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Cloud Engineer with a passion for DevOps, au
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a Cloud Support Engineer at [Softtek](https://www.softtek.com).
+- 🔭 Currently working as a AWS Cloud Engineer II at [Softtek](https://www.softtek.com).
 - 💼 I have experience in CloudOps, DevOps, and am currently transitioning towards DevSecOps.
 - 🎓 Bachelor's degree in Computer Engineering from Universidad Politécnica de Sinaloa.
 - 🏆 Recently obtained my **AWS Certified SysOps Administrator** certification.
